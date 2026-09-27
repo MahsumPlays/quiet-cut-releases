@@ -33,10 +33,10 @@ This repository hosts the official QuietCut installers and powers the in-app aut
 
 - **Fast.** A 2 hour video with 2 audio sources takes around 15 to 30 seconds for the XML export on an NVMe SSD. The timeline is written without re-encoding your video.
 - **Local.** Your files never leave your machine. No upload, no file size limit, no AI guessing what to cut.
-- **Multiple audio tracks.** Mic, game sound and Discord are read separately, each with its own dB threshold.
+- **Multiple audio tracks.** Every track in your recording is read separately with its own dB threshold, for example mic, game sound or Discord.
 - **Your editor, your workflow.** Export as MP4 for a finished video, or as XML to keep editing in Premiere Pro, DaVinci Resolve or Final Cut.
 - **Autopilot** (Premium). Point QuietCut at a folder and every new recording is cut automatically in the background, even after you close the window.
-- **Clip Exporter.** Every OBS chapter marker becomes its own named clip. Can be linked with Autopilot.
+- **Clip Exporter.** (Premium) Every OBS chapter marker becomes its own named clip. Can be linked with Autopilot.
 - **Full control.** dB threshold, minimum pause and speech length, margins, Do Not Touch passages, presets and settings history.
 
 ## Download
@@ -79,7 +79,7 @@ The only official website of QuietCut is **[quietcut.me](https://quietcut.me)**.
 
 ## Support
 
-- Bug reports and questions: [Discord](https://discord.gg/8RDznExUuJ) or support@925studios.net
+- Bug reports and questions: [Discord](https://discord.gg/8RDznExUuJ) or <support@925studios.net>
 - Please include your QuietCut version, operating system and, if possible, a screenshot or log.
 
 ---
